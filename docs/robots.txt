@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armaragex.github.io/cabinet-atlas-aed-notes-row869/sitemap.xml
